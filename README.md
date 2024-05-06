@@ -1,7 +1,9 @@
 <div align="center"><h1>Hi, I'm Ola! ✨</h1>
 <h2>Future frontend developer</h2>
 <h3>Connect with me</h3>
-<a href="https://www.linkedin.com/in/aleksandraczyrnek"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:aleksandra@czyrnek.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aleksandraczyrnek"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:aleksandra@czyrnek.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+👉 <a href="https://olcolcolc.github.io">Check out my portfolio</a> 
+
 <br><br>
 <p>This is my GitHub repository where I gather various projects.<br></div>
 I've been learning programming for over 2 years. Firstly, I started with Python, but the more I delved into frontend development, the more I enjoyed it, and it became my passion. In July, I completed postgraduate studies in "Frontend Developer with Angular", but at the moment, I'm focusing the most on:
