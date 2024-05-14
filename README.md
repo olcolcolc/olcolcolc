@@ -31,7 +31,7 @@ An application built on the foundation of my initial vanilla JavaScript project.
     <i><b>React, Expo, Typescript, Styled Components, Emotion, i18next</b></i><br>
 </li>
 <li>
-    <b><a href="https://github.com/olcolcolc/JustMemesApp">Just Memes App</a> 🙃</b>
+    <b><a href="https://github.com/olcolcolc/JustMemesApp">JustMemesApp</a> 🙃</b>
     </br>
   App that allows users to view and post memes, also vote for them.
     </br>
@@ -52,7 +52,7 @@ This is a flight ticket booking application developed as a learning project to p
     <i><b>HTML, CSS, JavaScript</b></i><br>
 </li>
 <li>
-    <b><a href="https://github.com/olcolcolc/CakeCalc">Cake Calc</a></b>
+    <b><a href="https://github.com/olcolcolc/CakeCalc">CakeCalc</a></b>
     </br>
 Simple calculator which gives you sizes of cake tins to produce a layer cake, and price of cake. Created with customtkinter module in python.
     </br>
