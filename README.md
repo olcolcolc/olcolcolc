@@ -14,7 +14,15 @@ For the past few years, I have been working in a restaurant, where I am responsi
 <br>Feel free to explore my projects and collaborate! </p>
 
 <h2>My Projects:</h2>
+
 <ul>
+    <li>
+    <b><a href="https://github.com/olcolcolc/xlsxmerger">XlsxMerger</a> 📝</b>
+    <br>
+    A Node.js script created to help my boyfriend organize data for his PhD by automating the sorting, filtering, and merging of .xlsx files.
+    <br>
+    <i><b>Node.js</b></i>  
+  </li>
   <li>
     <b><a href="https://github.com/olcolcolc/RNWeatherApp">RNWeatherApp</a> 🌥️</b>
     <br>
