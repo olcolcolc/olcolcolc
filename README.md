@@ -6,7 +6,7 @@
 
 <br><br>
 <p>This is my GitHub repository where I gather various projects.<br></div>
-I've been learning programming for over 2 years. Firstly, I started with Python, but the more I delved into frontend development, the more I enjoyed it, and it became my passion. In July, I completed postgraduate studies in "Frontend Developer with Angular", but at the moment, I'm focusing the most on:
+I'm focusing the most on:
 <br>⚛️ React, and
 <br>💻 TypeScript. 
 <br>Learning and growing in the field of web application development brings me pure joy so I always learn - I'm actively involved in various projects and continually expanding my portfolio. 
