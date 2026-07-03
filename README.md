@@ -85,7 +85,6 @@ Coding exercise - game where you take on the role of the Cookie Monster and indu
 <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="32px"></a>
 <a href="https://vitejs.dev/"><img src="https://vitejs.dev/logo.svg" width="32px"></a>
 <a href="https://www.styled-components.com"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="32px"></a>
-<a href="https://angular.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/1280px-Angular_gradient_logo.png" width="32px"></a>
 
 
 
