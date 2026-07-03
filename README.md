@@ -1,8 +1,7 @@
 <div align="center"><h1>Hi, I'm olcolcolc! ✨</h1>
-<h2>frontend developer</h2>
-<h3>connect with me</h3>
-<a href="https://www.linkedin.com/in/aleksandraczyrnek"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:aleksandra@czyrnek.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
-👉 <a href="https://olcolcolc.github.io">Check out my portfolio</a> 
+<div>connect with me:</div>
+<a href="https://www.linkedin.com/in/aleksandraczyrnek"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:aleksandra@czyrnek.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br><br>
+👉 <a href="https://czyrnek.pl">Check out my portfolio</a> 
 
 <br><br>
 <p>This is my GitHub repository where I gather various projects.<br></div>
