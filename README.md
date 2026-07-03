@@ -1,16 +1,12 @@
-<div align="center"><h1>Hi, I'm Ola! ✨</h1>
-<h2>Future frontend developer</h2>
-<h3>Connect with me</h3>
+<div align="center"><h1>Hi, I'm olcolcolc! ✨</h1>
+<h2>frontend developer</h2>
+<h3>connect with me</h3>
 <a href="https://www.linkedin.com/in/aleksandraczyrnek"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:aleksandra@czyrnek.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><br>
 👉 <a href="https://olcolcolc.github.io">Check out my portfolio</a> 
 
 <br><br>
 <p>This is my GitHub repository where I gather various projects.<br></div>
-I'm focusing the most on:
-<br>⚛️ React, and
-<br>💻 TypeScript. 
 <br>Learning and growing in the field of web application development brings me pure joy so I always learn - I'm actively involved in various projects and continually expanding my portfolio. 
-For the past few years, I have been working in a restaurant, where I am responsible for the pastry section. This experience has shaped me as a hardworking, patient, responsible, flexible, and capable individual, able to work under time pressure. Acquiring knowledge about pastry-making on my own has taught me how to seek knowledge and develop independently. I am convinced that the skills and qualities I have gained during my professional experience are also crucial for effective work in a programming team. 🚀
 <br>Feel free to explore my projects and collaborate! </p>
 
 <h2>My Projects:</h2>
